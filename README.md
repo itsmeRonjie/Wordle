@@ -11,7 +11,13 @@ This is an implementation of the popular word-guessing game, Wordle.
 
 ## Installation
 
-(Provide instructions on how to clone the repository, build the project, and run it. This will depend on the technology stack you are using.)
+To install the game, run the following command:
+
+```bash
+git clone https://github.com/ronjie/wordle.git
+cd wordle
+./gradlew run
+```
 
 ## How to Play
 
